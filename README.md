@@ -4,6 +4,7 @@
 Prepare the SVHN, CIFAR10, CIFAR100, TinyImageNet, ImageWoof, ImageNette, ImageBird, ImageCat, ImageNet10, ImageNet100, and ImageNet1K datasets.
 
 ## Experiment Commands
+We will release the code when accepted!
 
 ## Acknowledgement
 This project is mainly developed based on the following works:
