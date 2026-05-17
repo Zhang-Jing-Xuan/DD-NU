@@ -1,0 +1,1 @@
+find /root/autodl-tmp/MinimaxDiffusion/data/imagenet/train/n03888257 -type f | wc -l
